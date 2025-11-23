@@ -59,7 +59,6 @@
 ---
 
 ### 🌐 Connect with Me
-### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:millermm22@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail" />
