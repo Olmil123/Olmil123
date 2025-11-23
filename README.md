@@ -55,10 +55,7 @@
 ---
 
 ### 🎧 Now Playing
-<div align="center">
-  <img src="https://img.shields.io/badge/Spotify-Currently%20Unavailable-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify unavailable badge"/>
-</div>
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312yq5remlmg6fojmwh5z7sgy6ty&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
 ### 🌐 Connect with Me
